@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lembogeorgex
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on //
+- 💞️ I’m looking to collaborate on startup projects
 - 📫 How to reach me lembogiorgio2@gmail.com
 
 <!---
